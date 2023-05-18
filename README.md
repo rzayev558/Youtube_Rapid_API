@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+App was deployed to https://fake-youtube-sepia.vercel.app/video/WJMwLsDbfJA
+Feel free to test it out and give me feedback.
+No ads I think. 500 API calls per day but who watches 500 videos a day anyways, right?
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
